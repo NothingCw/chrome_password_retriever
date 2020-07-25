@@ -1,6 +1,6 @@
 # Chrome Password Retriever:
 
-Chrome Password Retriver is a python script/module that decrypts login information stored by the user in the Chrome web browser.
+Chrome Password Retriever is a python script/module that de-crypts login information stored by the user in the Chrome web browser.
 
 ** This script is written for educational purposes and to showcase the vulnerabilities on the Google Chrome Browser. **
 
